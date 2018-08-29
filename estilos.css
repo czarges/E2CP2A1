@@ -1,0 +1,106 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+header {
+	background: url(images/bg.jpeg) no-repeat center / cover transparent;
+	color: #fff;
+	padding: 50px;
+}
+h1, h2, h3, h4 {
+	text-transform: uppercase;
+}
+.logo {
+	float: left;
+	width: 200px;
+}
+nav {
+	height: 120px;
+}
+nav ul {
+	list-style: none;
+	float: right;
+}
+nav ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
+.encabezado {
+	max-width: 800px;
+	margin: 20px auto;
+	text-align: center;
+}
+.boton {
+	padding: 10px 14px;
+	color: #fff;
+	background-color: #036;
+	border-radius: 5px;
+	border:0;
+	margin: 4px;
+	font-size: 14px;
+}
+.verde {
+	background-color: #2c820a;
+}
+
+h2 {
+	font-size:22px;
+}
+
+.somos {
+	background: url(images/images_cv/viewing-gallery-for-happy-people.png) no-repeat center bottom / 400px transparent;
+	text-align: center;
+	height: 500px;
+	width: 600px;
+	margin: 0 auto;
+}
+.informacion {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 60px auto;
+	background-color: #eee;
+	text-align: center;
+
+}
+
+.informacion p {
+	width: 600px;
+	margin: 20px auto;
+
+}
+.contacto {
+	float: left;
+	width: 50%;
+	height: 160px;
+	padding: 20px;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+}
+.contacto ul {
+	list-style: none;
+	padding-left: 0;
+}
+span {
+	font-weight: 900;
+}
+
+input {
+	height: 30px;
+	width: 220px;
+	margin-right: 12px;
+}
+
+footer {
+	clear: both;
+	width: 100%;
+	background-color: #000;
+	padding: 20px;
+	box-sizing: border-box;
+}
+h4 {
+	color:#fff;
+	font-size: 14px;
+	margin:0;
+	padding: 0;
+}
